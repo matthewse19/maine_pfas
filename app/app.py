@@ -214,7 +214,7 @@ app_ui = ui.page_fluid(
         ui.p(
             r"[3] Per- and polyfluoroalkyl substances (PFAS). Maine Department of Environmental Protection. (n.d.). https://www.maine.gov/dep/spills/topics/pfas/#Data"
         ),
-        ui.card_footer("See <GH link here>"),
+        ui.card_footer("See ", ui.a("https://github.com/matthewse19/maine_pfas")),
     ),
 )
 
