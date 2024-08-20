@@ -2,7 +2,7 @@
 
 This repository contains the code for a web application that displays chemical PFAS (Per- and Polyfluoroalkyl Substances) data in Maine. The app allows users to explore and visualize the data interactively.
 
-Use the interactive app by going to https://matthewse19.github.io/maine_pfas/ (Pyodide can take a while to install and cache the libraries during a users' first visit).
+Use the interactive app by going to https://matthewse19.github.io/maine_pfas/ (Pyodide can take a while to install and cache the libraries during a user's first visit).
 
 ## Project Structure
 
